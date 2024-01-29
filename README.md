@@ -2,7 +2,7 @@
 
 Calculate word counts in a text file!
 
-Package here: https://test.pypi.org/project/pycounts_arbf/
+Package [HERE](https://test.pypi.org/project/pycounts_arbf/)
 
 ## Installation
 
